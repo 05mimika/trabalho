@@ -28,7 +28,7 @@ como criar um repositório
 
 °entre no vscod de novo
 
-°digite "git remote add origin "https://github.com/NOME DO USUARIO/E REPOSITORIO.git"
+°digite "git remote add origin "https://github.com/05mimika/trabalho.git"
 
 °digite "git branch -m main"
 
